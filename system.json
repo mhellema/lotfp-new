@@ -1,0 +1,42 @@
+{
+    "id": "lotfp",
+    "title": "Lamentations Of The Flame Princess",
+    "description": "Lamentations of the flame princess system, a fork based on OSE module.",
+    "authors": [
+        {
+            "name": "mhellema"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11"
+    },
+    "minimumCoreVersion": "10",
+    "esmodules": [
+        "ose.js"
+    ]
+    ,
+    "templateVersion": 1,
+    "styles": [
+        "ose.css"
+    ],
+    "packs": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        },
+        {
+            "lang": "cn",
+            "name": "Chinese",
+            "path": "lang/cn.json"
+        }
+    ],
+    "gridDistance": 5,
+    "gridUnits": "ft",
+    "url": "https://gitlab.com/mhellema/lotfp",
+    "manifest": "https://gitlab.com/mhellema/lotfp/raw/main/system.json",
+    "download": "https://github.com/mhellema/lotfp/archive/refs/heads/main.zip"
+}
